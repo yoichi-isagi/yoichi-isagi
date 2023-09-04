@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @yoichi-isagi
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java
+
+
    [![Your LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yoichi-isagi)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
